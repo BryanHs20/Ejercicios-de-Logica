@@ -5,6 +5,7 @@ html{
 body{
     font-size: 1.6rem;
     background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .layout{
@@ -28,4 +29,14 @@ body{
 .content__text{
     font-size: 2rem;
     font-weight: 300;
+}
+
+.content__fizzbuzz{
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.fizzbuzz__title{
+    font-size: 3rem;
+    text-align: center;
 }
