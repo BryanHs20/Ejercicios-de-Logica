@@ -1,0 +1,31 @@
+html{
+    font-size: 10px;
+}
+
+body{
+    font-size: 1.6rem;
+    background-color: bisque;
+}
+
+.layout{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.layout__content{
+    width: 60%;
+}
+
+.content__title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.content__text{
+    font-size: 2rem;
+    font-weight: 300;
+}
