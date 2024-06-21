@@ -122,9 +122,9 @@ let saludar = new Promise((resolve, reject) => {
 });
 
 saludar.then(resultado => {
-    // alert(resultado);
+    alert(resultado);
 }).catch(error => {
-    // alert(error);
+    alert(error);
 });
 
 // Clases
