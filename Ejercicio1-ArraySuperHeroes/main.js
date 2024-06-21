@@ -69,7 +69,7 @@ const mostrarInfoTodos = (apodo) => {
 mostrarInfoIndividual("Hulk");
 mostrarInfoTodos(["SpiderMan", "Deadpool", "Harley Quin", "Joker", "Wolverine", "Mystic"]);
 
-// Solución del curso
+// Forma alterna
 // function mostrarInfoindividualSuperheroe(apodo) {
 
 //     // Comprobamos si el superhéroe existe dentro del array
